@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f4c2df1.chunk.css",
+    "main.js": "/static/js/main.3b8b6f95.chunk.js",
+    "main.js.map": "/static/js/main.3b8b6f95.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.329451e3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.329451e3.js.map",
+    "static/js/2.3fa57a91.chunk.js": "/static/js/2.3fa57a91.chunk.js",
+    "static/js/2.3fa57a91.chunk.js.map": "/static/js/2.3fa57a91.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.85fb7564a7fd5b2e8de173894911f31a.js": "/precache-manifest.85fb7564a7fd5b2e8de173894911f31a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0f4c2df1.chunk.css.map": "/static/css/main.0f4c2df1.chunk.css.map",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/amnah.JPG": "/static/media/amnah.1dedf548.JPG",
+    "static/media/amnah2.jpg": "/static/media/amnah2.59e705db.jpg",
+    "static/media/amnah3.jpg": "/static/media/amnah3.ddb7a001.jpg",
+    "static/media/amnah4.jpg": "/static/media/amnah4.bbc76e69.jpg",
+    "static/media/developerActivity.jpg": "/static/media/developerActivity.12990890.jpg",
+    "static/media/itc.jpeg": "/static/media/itc.3d618d86.jpeg",
+    "static/media/location.jpg": "/static/media/location.b73a10e1.jpg",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
+    "static/media/shenzyn.jpeg": "/static/media/shenzyn.a1de4362.jpeg",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/static/media/talksCardBack.0288c5ec.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.329451e3.js",
+    "static/js/2.3fa57a91.chunk.js",
+    "static/css/main.0f4c2df1.chunk.css",
+    "static/js/main.3b8b6f95.chunk.js"
+  ]
+}
