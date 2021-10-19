@@ -8,6 +8,7 @@ import amnah from '../../assets/images/amnah.JPG';
 import amnah2 from '../../assets/images/amnah2.jpg';
 import amnah3 from '../../assets/images/amnah3.jpg';
 import amnah4 from '../../assets/images/amnah4.jpg';
+import amnah5 from '../../assets/images/amnah5.jpg';
 import location from '../../assets/images/location.jpg';
 
 
@@ -42,7 +43,7 @@ export default function GithubProfileCard({prof}) {
             <SocialMedia/>
           </div>
           <div className="image-content-profile">
-            <img src={amnah4} alt={amnah} className="profile-image"/>
+            <img src={amnah5} alt={amnah} className="profile-image"/>
         </div>
       </div>
     </div>
