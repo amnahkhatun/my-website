@@ -1,10 +1,12 @@
 .profile-image {
-  border-radius: 50%;
   border: 0.5rem solid #45A29E;
-  margin-left: auto;
-  width: 120%;
-  max-width: 350px;
-  height: 80%;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+
+  object-fit: cover;
+
 }
 
 .profile-image:hover {
